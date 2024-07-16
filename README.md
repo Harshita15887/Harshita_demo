@@ -1,6 +1,6 @@
 # Harshita_demo
 This is first demo
 <br>
+Author - Harshita(hars)
 
-Author - Harshita
 
